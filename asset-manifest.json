@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5079016.css",
-    "main.js": "/static/js/main.f65568d3.js",
+    "main.css": "/static/css/main.3695a243.css",
+    "main.js": "/static/js/main.9e3c34f5.js",
     "static/js/488.205792a3.chunk.js": "/static/js/488.205792a3.chunk.js",
     "static/media/1.png": "/static/media/1.de5f59e0e3e2d1f73254.png",
     "static/media/2.png": "/static/media/2.55115710a9565d36befe.png",
@@ -29,7 +29,7 @@
     "static/media/5.jpg": "/static/media/5.ff935ee56e79079bdbf0.jpg",
     "static/media/1.jpg": "/static/media/1.6c0fb723859b92ff666e.jpg",
     "static/media/3.jpg": "/static/media/3.eeac3219c52f7ffa67c1.jpg",
-    "static/media/3.png": "/static/media/3.27b65dd9baa11d3fb0f8.png",
+    "static/media/3.png": "/static/media/3.f23d1c440c70dab14fbd.png",
     "static/media/test-cover.jpg": "/static/media/test-cover.6f41a74bb7dab331ce53.jpg",
     "static/media/koolmicro.png": "/static/media/koolmicro.aa5f2ad373645e2c55e4.png",
     "static/media/6.jpg": "/static/media/6.a6cdd65752b35b0bd047.jpg",
@@ -44,12 +44,12 @@
     "static/media/eco.png": "/static/media/eco.7cfafffee0658284e7f7.png",
     "static/media/co2.png": "/static/media/co2.0249f6ce4de9f313c11e.png",
     "index.html": "/index.html",
-    "main.d5079016.css.map": "/static/css/main.d5079016.css.map",
-    "main.f65568d3.js.map": "/static/js/main.f65568d3.js.map",
+    "main.3695a243.css.map": "/static/css/main.3695a243.css.map",
+    "main.9e3c34f5.js.map": "/static/js/main.9e3c34f5.js.map",
     "488.205792a3.chunk.js.map": "/static/js/488.205792a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5079016.css",
-    "static/js/main.f65568d3.js"
+    "static/css/main.3695a243.css",
+    "static/js/main.9e3c34f5.js"
   ]
 }
