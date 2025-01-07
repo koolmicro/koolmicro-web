@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a79786e.css",
-    "main.js": "/static/js/main.1f0b0f3f.js",
+    "main.js": "/static/js/main.d6c08770.js",
     "static/js/488.205792a3.chunk.js": "/static/js/488.205792a3.chunk.js",
     "static/media/1.png": "/static/media/1.de5f59e0e3e2d1f73254.png",
     "static/media/datacenter.jpg": "/static/media/datacenter.49fd76f98d96dacb7342.jpg",
@@ -25,13 +25,13 @@
     "static/media/side.png": "/static/media/side.424e6790bac3b2ae1710.png",
     "static/media/cover-base.png": "/static/media/cover-base.adafdb1faa18df5efb60.png",
     "static/media/patent.png": "/static/media/patent.3cfbf31e33e5904622f9.png",
+    "static/media/1.jpg": "/static/media/1.4b0d5b178d2ceed9f7e3.jpg",
+    "static/media/2.jpg": "/static/media/2.b900e035f46d76bbad6d.jpg",
     "static/media/map.png": "/static/media/map.f592c249f9825e0aedee.png",
-    "static/media/4.jpg": "/static/media/4.878e7c7be8f3cc928242.jpg",
-    "static/media/2.jpg": "/static/media/2.d4baf0efc944e5d30c69.jpg",
-    "static/media/5.jpg": "/static/media/5.ff935ee56e79079bdbf0.jpg",
-    "static/media/1.jpg": "/static/media/1.6c0fb723859b92ff666e.jpg",
-    "static/media/3.jpg": "/static/media/3.eeac3219c52f7ffa67c1.jpg",
     "static/media/3.png": "/static/media/3.f23d1c440c70dab14fbd.png",
+    "static/media/4.jpg": "/static/media/4.878e7c7be8f3cc928242.jpg",
+    "static/media/5.jpg": "/static/media/5.ff935ee56e79079bdbf0.jpg",
+    "static/media/3.jpg": "/static/media/3.eeac3219c52f7ffa67c1.jpg",
     "static/media/test-cover.jpg": "/static/media/test-cover.6f41a74bb7dab331ce53.jpg",
     "static/media/koolmicro.png": "/static/media/koolmicro.aa5f2ad373645e2c55e4.png",
     "static/media/6.jpg": "/static/media/6.a6cdd65752b35b0bd047.jpg",
@@ -48,11 +48,11 @@
     "static/media/co2.png": "/static/media/co2.b822c03550a1efbc64ec.png",
     "index.html": "/index.html",
     "main.2a79786e.css.map": "/static/css/main.2a79786e.css.map",
-    "main.1f0b0f3f.js.map": "/static/js/main.1f0b0f3f.js.map",
+    "main.d6c08770.js.map": "/static/js/main.d6c08770.js.map",
     "488.205792a3.chunk.js.map": "/static/js/488.205792a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a79786e.css",
-    "static/js/main.1f0b0f3f.js"
+    "static/js/main.d6c08770.js"
   ]
 }
